@@ -1,6 +1,11 @@
 ---
-title: Welcome to Quartz
+title: Grediaの雑記帳
 ---
+# ブログ的な何か
+私、Grediaが、週報に書くレベルでもない小言や備忘録、適当な思いつきなどをなんとなくで公開するブログ的ななにか。
+週報は公開しようと心がけるけど、このブログはまったく更新されないかもしれない。
+正確性も皆無なので眉唾で。
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+
+
+リンクリストの作り方を知ったら後でここにまとめる
