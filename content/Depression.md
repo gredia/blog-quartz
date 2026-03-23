@@ -1,6 +1,6 @@
 ---
 title: 思想と性格の相反
-draft: "true"
+draft: "false"
 tags:
   - "#Depression"
 ---
