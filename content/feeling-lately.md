@@ -1,6 +1,6 @@
 ---
 title: 最近の気分と調子について
-draft: "false"
+draft: "true"
 tags:
   - "#test"
 ---
