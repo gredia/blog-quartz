@@ -1,3 +1,16 @@
 @use "./variables.scss" as *;
 
 // put your custom CSS here!
+
+@media (max-width: 800px) {
+  #quartz-body .sidebar.left {
+    flex-wrap: wrap;
+    row-gap: 0.5rem;
+  }
+
+  #quartz-body .sidebar.left .page-title {
+    white-space: nowrap;
+    flex-shrink: 0;
+    font-size: clamp(1.25rem, 5vw, 1.75rem);
+  }
+}
